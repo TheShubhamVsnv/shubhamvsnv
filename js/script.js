@@ -25,7 +25,7 @@ $(document).ready(function () {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Code Re-enter", "Salesforce admin", "Student"],
+        strings: ["Salesforce For Fresher", "Salesforce Developer", "Student"],
         typeSpeed: 50,
         loop: true,
         startDelay: 400,
