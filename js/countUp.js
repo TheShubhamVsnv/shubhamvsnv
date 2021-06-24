@@ -1,16 +1,4 @@
-/*
-
-	countUp.js
-	by @inorganik
-
-*/
-
-// target = id of html element or var of previously selected html element where counting occurs
-// startVal = the value you want to begin at
-// endVal = the value you want to arrive at
-// decimals = number of decimal places, default 0
-// duration = duration of animation in seconds, default 2
-// options = optional object of options (see below)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 var CountUp = function(target, startVal, endVal, decimals, duration, options) {
 
