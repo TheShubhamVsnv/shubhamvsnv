@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 var CountUp = function(target, startVal, endVal, decimals, duration, options) {
 
